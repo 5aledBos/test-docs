@@ -1,0 +1,11 @@
+site_name: Test Docs
+nav:
+  - Table of contents: index.md
+  - Page1: page1.md
+
+theme:
+    name: readthedocs
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - rust
