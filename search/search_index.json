@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"prebuild_index":false,"separator":"[\\s\\-]+"},"docs":[{"location":"","text":"test1 test2","title":"Table of contents"},{"location":"#test1","text":"","title":"test1"},{"location":"#test2","text":"","title":"test2"},{"location":"page1/","text":"page1","title":"Page1"},{"location":"page1/#page1","text":"","title":"page1"}]}
